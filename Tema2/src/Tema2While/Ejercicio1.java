@@ -26,10 +26,10 @@ public class Ejercicio1
 			System.out.print("Introduce un número entero positivo ");
 			num = escaner.nextInt();
 			
-			if (num <= 0)
+			/*if (num <= 0)
 			{
 				System.out.println("Ese número es negativo");
-			}
+			*/}
 		}
 		
 		// Cierro escaner
