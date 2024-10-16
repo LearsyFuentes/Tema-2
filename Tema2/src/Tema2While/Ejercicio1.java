@@ -38,4 +38,4 @@ public class Ejercicio1
 			System.out.print("El resultado de la suma es: " + suma);
 	}
 
-}
+
