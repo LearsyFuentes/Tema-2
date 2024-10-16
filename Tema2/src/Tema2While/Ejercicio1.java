@@ -29,7 +29,7 @@ public class Ejercicio1
 			/*if (num <= 0)
 			{
 				System.out.println("Ese número es negativo");
-			*/}
+			}*/
 		}
 		
 		// Cierro escaner
@@ -37,5 +37,4 @@ public class Ejercicio1
 			
 			System.out.print("El resultado de la suma es: " + suma);
 	}
-
-
+}
